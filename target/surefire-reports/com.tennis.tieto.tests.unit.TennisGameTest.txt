@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.tennis.tieto.tests.unit.TennisGameTest
--------------------------------------------------------------------------------
-Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.083 sec
